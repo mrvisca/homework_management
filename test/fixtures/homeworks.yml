@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  homework_name: MyText
+  catagory: MyString
+  deadline: 2022-01-24
+  description: MyText
+
+two:
+  homework_name: MyText
+  catagory: MyString
+  deadline: 2022-01-24
+  description: MyText
